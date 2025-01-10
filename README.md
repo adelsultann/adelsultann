@@ -44,14 +44,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 🌍 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [X (Twitter)](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
+- 🌍 [LinkedIn](https://www.linkedin.com/in/adel-alsultan-69b57119a)
+- 🐦 [X (Twitter)](https://x.com/Adel12342360)
+- 📧 Email: adelalsultan647@gmail.com
 
 ---
-
-### 🔗 Fun Widgets for Engagement
-1. **Dynamic Badges:** You can add tech badges:
-```markdown
-![Python](https://img.shields.io/badge/-Python-blue)
-![Flutter](https://img.shields.io/badge/-Flutter-blueviolet)
