@@ -17,12 +17,6 @@
 
 ---
 
-### 🚀 Current Projects
-- 📝 **[مفرداتي اليومية](https://github.com/yourprojectlink)**: A Flutter app helping users learn English daily.
-- 📈 **Oil Prices and TASI Correlation Analysis**: Visualizing trends to share insights on LinkedIn.
-- 🥋 Preparing for Muay Thai training in Phuket to achieve my fitness goals.
-
----
 
 ### 🏆 Highlights & Achievements
 - 🌐 Built and deployed my personal website: [mydailywords.live](https://mydailywords.live).
@@ -31,15 +25,9 @@
 
 ---
 
-### ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon: My take on exploring TASI trends!
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelsultann&show_icons=true&theme=radical)
 
 ---
 
