@@ -9,7 +9,8 @@
 
 
 ### 🏆 Highlights & Achievements
-- 🌐 Built and launched "مفرداتي اليومية", a mobile app designed to help people learn English effectively through daily vocabulary practice
+- 🌐 Built and launched [**"مفرداتي اليومية"**](https://mydailywords.live), a mobile app designed to help people learn English effectively through daily vocabulary practice.
+
 - 💡 Completed multiple projects related to options trading and data analysis.
 - 🎬 Skilled in video editing using CapCut and DaVinci Resolve.
 
