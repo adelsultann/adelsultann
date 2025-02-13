@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About Me
 - 🌟 Aspiring Data Scientist with a passion for data-driven insights.
-- 🎓 Currently pursuing a diploma in Computer Science and Data Analytics.
 - 🌍 I’m improving my coding skills and working on real-world projects.
 
 
