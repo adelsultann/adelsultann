@@ -1,19 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-### 👨‍💻 About Me
-- 🌟 Aspiring Data Scientist with a passion for data-driven insights.
-- 🌍 I’m improving my coding skills and working on real-world projects.
-
-
-
-
-### 🏆 Highlights & Achievements
-- 🌐 Built and launched [**"مفرداتي اليومية"**](https://mydailywords.live), a mobile app designed to help people learn English effectively through daily vocabulary practice.
-
-- 💡 Completed multiple projects related to options trading and data analysis.
-- 🎬 Skilled in video editing using CapCut and DaVinci Resolve.
-
----
 
 
 
