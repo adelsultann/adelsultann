@@ -13,13 +13,6 @@ Email: adelalsultan647@gmail.com
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=adelsultann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adelsultann&theme=dark&hide_border=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=adelsultann&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelsultann&show_icons=true&theme=radical)
