@@ -13,6 +13,3 @@ Email: adelalsultan647@gmail.com
 
 
 
-# 📊 GitHub Stats
-
-![Adel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelsultann&show_icons=true&theme=radical)
